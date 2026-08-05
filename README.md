@@ -1,4 +1,4 @@
-# SecureBank-Threat-Modeling---Level-1-DFD
+# SecureBank-Threat-Modeling
 
 
 A practical threat modeling exercise for a fictional digital banking platform.
