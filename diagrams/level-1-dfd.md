@@ -48,3 +48,6 @@ This DFD establishes:
 - Sensitive data stores
 - External services
 - Future trust boundaries
+
+
+<img width="933" height="870" alt="SecureBank - Digital Banking Platform Threat Modeling drawio (1)" src="https://github.com/user-attachments/assets/4e7b66ee-90a2-450d-a493-e3d17815a7c7" />
